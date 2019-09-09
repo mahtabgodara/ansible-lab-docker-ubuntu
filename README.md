@@ -24,6 +24,18 @@ You can read more at [www.docker.com](https://www.docker.com/)
 
 # Quick start
 
+## Install Docker for Mac
+
+Download and install from: https://hub.docker.com/editions/community/docker-ce-desktop-mac 
+
+OR 
+
+https://guavusnetwork-my.sharepoint.com/:f:/r/personal/mahtab_singh_guavus_com/Documents/training-mat/ansible/Docker4Mac?csf=1&e=LF1buJ
+
+
+mkdir -p ~/ansible/lab-setup/
+cd ~/ansible/lab-setup/
+
 ## Clone repository
 
 Clone this git repository:
@@ -71,7 +83,7 @@ Confirm _every_ new host for SSH connections:
     ECDSA key fingerprint is SHA256:HwEUUnBtOm9hVAR2PJflNdCVchSCzIlpOpqYlwp+w+w.
     Are you sure you want to continue connecting (yes/no)?
 
-Type: `yes` (three times)
+Type: `yes` (four times)
 
 Install PHP on web **inventory group**:
 
